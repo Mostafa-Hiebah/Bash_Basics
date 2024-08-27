@@ -7,7 +7,6 @@ done
 
 
 #!/bin/bash  
-#This is the basic example of 'for loop'.  
 learn="Start learning from Javatpoint."  
   echo
 for learn in $learn  
@@ -17,6 +16,7 @@ done
 echo "Thank You."  
 
 
+#!/bin/bash 
 x=`ls`
 for i in $x
 do
