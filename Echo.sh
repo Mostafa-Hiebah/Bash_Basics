@@ -4,7 +4,7 @@ name="moatasem"
 printf "hello world %s" $name
 
 
-
+#!/bin/bash
 cat > t1 <<EOF
 echo "=== Example: read from User ==="
 read -p "Enter your name: " first_Name
